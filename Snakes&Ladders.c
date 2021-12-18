@@ -1,6 +1,4 @@
-﻿/*CSEC 201.600 Fall 2021
-  Homework - 3
-  Group: Neha Gopinathan, Alia Albannai, Mahrukh, Hadi*/
+/*Snakes and Ladders game using C language*/
 
 #include <stdio.h>
 #include <stdlib.h>
